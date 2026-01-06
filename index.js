@@ -6,7 +6,6 @@ let herois = [
 ];
 
 for (let i = 0; i < herois.length; i++) {
-  // Variáveis
   let nome = herois[i].nomeHeroi;
   let xp = herois[i].xp;
   let nivel = "";
@@ -29,6 +28,5 @@ for (let i = 0; i < herois.length; i++) {
     nivel = "Radiante";
   }
 
-  // Saída
   console.log("O Herói de nome " + nome + " está no nível de " + nivel);
 }
