@@ -1,0 +1,11 @@
+{
+  "name": "dio-aula-logica",
+  "version": "1.0.0",
+  "description": "Calculadora de partidas rankeadas - DIO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "will",
+  "license": "MIT"
+}
